@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+.cabecalho-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    font-family: arimo, sans-serif;
+;
+    
+}
+.corpo{
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#titulo1{
+    color: white;
+}
+#titulo2 {
+    color: white;
+}
