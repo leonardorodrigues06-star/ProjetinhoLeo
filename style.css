@@ -1,13 +1,16 @@
 body {
     background-color: black;
+    color: white;
+    font-family: arimo, sans-serif;
 }
 .cabecalho-container {
-    display: flex;
+    display: flexbox;
     justify-content: center;
     align-items: center;
     background-color: aqua;
-    font-family: arimo, sans-serif;
-;
+    border-radius: 4%;
+    size: 30%;
+
     
 }
 .corpo{
